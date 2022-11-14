@@ -1,5 +1,6 @@
 hello11
 22222
+<<<<<<< HEAD
 <<<<<<< HEA
 <<<<<<< HEAD
 3addsahisahudiasgifv vchbjhiashiasufiuassahisui332
@@ -8,4 +9,7 @@ hello11
 >>>>>>> dev
 =======
 3addsahisahdahodoasjsacnasnkudiasgifv vchbjhiashiasufiuassahisui332
+>>>>>>> dev2
+=======
+3addsahisasadiuasgdiasgduhdahodoasjsacnasnkudiasgifv vchbjhiashiasufiuassahisui332
 >>>>>>> dev2
