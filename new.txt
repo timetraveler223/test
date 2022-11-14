@@ -1,3 +1,7 @@
 hello11
 22222
+<<<<<<< HEAD
 3addsahisahudiasgifv vchbjhiashiasufiuassahisui332
+=======
+3adhiashiasufiuassahisui=isaisudh2
+>>>>>>> dev
